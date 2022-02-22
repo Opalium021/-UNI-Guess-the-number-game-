@@ -53,7 +53,7 @@ while True:
 
         if c == "+":
             d = a + b
-            print("\n{} + {} = ".format(a , b),d)
+            print("\n{} + {} = ".format(a,b),d)
 
 
         elif c == "-":
