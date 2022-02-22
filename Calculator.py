@@ -75,7 +75,7 @@ while True:
 
                 
         elif c == "sin":
-            d = math.sin
+            d = math.sin(a)
             print("\nSin {} = ".format(a),d)
 
 
